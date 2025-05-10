@@ -18,6 +18,11 @@ The Online Boutique demo app contains multiple microservices:
 
 ![Online Boutique Architecture](images/architecture.png)
 
+
+## Video
+
+https://youtu.be/jit_lWJuHlM
+
 ## Setup Instructions
 
 ### Prerequisites
