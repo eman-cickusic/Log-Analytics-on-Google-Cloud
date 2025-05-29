@@ -21,7 +21,7 @@ The Online Boutique demo app contains multiple microservices:
 
 ## Video
 
-https://youtu.be/jit_lWJuHlM
+https://youtu.be/Z6N9EmeUeqM
 
 ## Setup Instructions
 
