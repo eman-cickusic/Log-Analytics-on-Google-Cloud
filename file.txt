@@ -1,0 +1,21 @@
+"Coded Test Case Snippet": {
+"prefix": "test",
+"body": [
+“… test:: $(1: label)",
+“:       :id: ${2: TEST_INT3_$CURRENT_SECONDS_UNIX}",
+“         :status: Draft”
+“         :date-released:",
+“         :submitted-by: Name Surname",
+“         :test-type:", 
+“         :testcase:",
+“         :tests:”,
+“         :test-result:”,
+“”,
+“         ${3:* Implemented test case definition, description and body:}",
+“”,
+“        ..  doxygenfunction:: ${4:example_function)",
+“        :project: maasu_internship_summer2025”,
+“${5}”
+],
+“description”: “Coded test case linking to requirements, implementation, and documentation”
+}
