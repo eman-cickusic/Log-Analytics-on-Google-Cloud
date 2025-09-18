@@ -2,7 +2,7 @@
 
 This repository documents my implementation of the "Log Analytics on Google Cloud" lab, where I explored Cloud Logging features to gain insights from applications running on Google Kubernetes Engine (GKE).
 
-## Overview
+## Overview 
 
 Cloud Logging is a fully managed service that allows you to store, search, analyze, monitor, and alert on logging data and events from Google Cloud. In this project, I:
 
