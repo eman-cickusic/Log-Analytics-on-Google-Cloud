@@ -12,7 +12,7 @@ Cloud Logging is a fully managed service that allows you to store, search, analy
 4. Created log sinks to route specific logs to storage
 5. Ran analytical queries to extract insights from the application logs
 
-## Architecture 
+## Architecture  
 
 The Online Boutique demo app contains multiple microservices:
 
